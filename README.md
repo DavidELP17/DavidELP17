@@ -2,7 +2,7 @@
 Currently learning more fun stuff at Platzi.
 - 👀 I'm always interested about learning new technologies and trying to discover and understand how everything works and improve myself as a
 professional and engineer. One of my greatest hobbies is learning new languages, currently learning German.
-- 🌱 I’m currently learning everithing about DevOps
+- 🌱 I’m currently learning everything about DevOps
 - 📫 Reach me in davidelp94@gmail.com
 
 <!---
