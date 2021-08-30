@@ -4,6 +4,7 @@ Currently learning more fun stuff at Platzi.
 professional and engineer. One of my greatest hobbies is learning new languages, currently learning German.
 - 🌱 I’m currently learning everything about DevOps
 - 📫 Reach me in davidelp94@gmail.com
+- 💻 visit my LinkedIn profile here linkedin.com/in/davidelp17
 
 <!---
 DavidELP17/DavidELP17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
